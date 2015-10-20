@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: "2015-10-20 03:38:59 -0400"
+date: ""
 categories: jekyll update
 ---
 
