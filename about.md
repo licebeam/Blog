@@ -5,9 +5,7 @@ permalink: /about/
 published: true
 ---
 
-### Chris likes huge dongers
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+### What I'm doing this for
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+My name is Chris and I've been told I have a knack for writing.  My aim here is to have a platform to share my writing with others so I can see whether or not that is true. So I look forward to hearing any feedback I can get from anything I post on here, and if I see an overlaying positive amount of feedback I will dedicate more time to writing so I can share the things in my head with all of you.
