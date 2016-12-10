@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 ## Update
 
-Make sure you catch up in the previous post "The Story So Far" if you are just now reading this. 4 more days to go let me know what you think.
+Make sure you catch up in the previous post "The Story So Far" if you are just now reading this. Again very little editing done (no editing done) just pumped this out before going to bed so I apologize if something doesn't make sense. Four more days to go let me know what you think.
 
 ## Day 2 Cont.
 
